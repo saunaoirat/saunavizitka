@@ -1671,56 +1671,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-ro0zp71GKg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-ro0zp71GKg p {
-  margin-bottom: 0;
-}
-.cid-ro0zp71GKg .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(15, 118, 153, 0.6);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-ro0zp71GKg .card-box .card-title {
-  pointer-events: all;
-}
-.cid-ro0zp71GKg .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-ro0zp71GKg .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-ro0zp71GKg .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-ro0zp71GKg .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-ro0zp71GKg .card-wrap {
-  position: relative;
-}
-.cid-ro0zp71GKg .card {
-  padding-bottom: 2rem;
-}
 .cid-ro0zAiVa3h {
   padding-top: 90px;
   padding-bottom: 90px;
