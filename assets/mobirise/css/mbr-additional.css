@@ -1719,3 +1719,24 @@ body {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
+.cid-roNl5DKXNl {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-roNl5DKXNl .image-block {
+  margin: auto;
+}
+.cid-roNl5DKXNl figcaption {
+  position: relative;
+}
+.cid-roNl5DKXNl figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-roNl5DKXNl .image-block {
+    width: 100% !important;
+  }
+}
